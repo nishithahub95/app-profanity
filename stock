@@ -1,0 +1,31 @@
+{
+
+Instock : [
+{
+kitcheName : 'Deepa's kitchen Kerala',
+kitchenColorCode : 'Red',
+Image :'https://wallpaperaccess.com/full/4622468.jpg',
+Name :'Chicken Biriyani'
+Days :'Monday,Tuesday,
+stockCount :5,
+stockThreshold :2 
+
+},
+{
+kitcheName : 'Deepa's kitchen Bangalore',
+kitchenColorCode :'Blue' ,
+Image :'https://jfwonline.com/wp-content/uploads/2016/11/Plain-dosa-JFW-Article.jpg',
+Name :'Masala Dosa',
+Days :''Monday,Friday,
+stockCount :'10'
+stockThreshold : 3
+
+}
+]
+,
+outOfStock : [
+
+]
+
+
+}
